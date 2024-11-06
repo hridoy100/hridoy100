@@ -44,4 +44,4 @@ As a **Software Engineer at Tekarsh - MarginEdge**, I collaborate with the team 
 
 #### 🔍 Research Interests
 
-I’m deeply invested in the intersection of **Human-AI Interaction**, **Machine Learning**, and **Software Engineering**. My goal is to develop intelligent systems that align with human expectations, improve software reliability, and adapt to user preferences for seamless integration into daily life.
+My research interest lies at the intersection of **Software Engineering**, **Health** and **Machine Learning**, with a particular focus on automatic code generation. I am especially interested in developing innovative techniques and tools to enhance the reliability of systems while also leveraging ML to address complex challenges in Software Engineering and Human wellbeing.
