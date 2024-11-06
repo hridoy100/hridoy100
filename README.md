@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="content/authors/admin/avatar.png" alt="Raihanul Alam Hridoy" width="350" height="350">
+  <img src="avatar.png" alt="Raihanul Alam Hridoy" width="350" height="350">
 </div>
 
 
