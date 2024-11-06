@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="avatar.png" alt="Raihanul Alam Hridoy" width="350" height="350">
-</div>
-
-
 ### 👋 About Raihanul Alam Hridoy
 
 Raihanul Alam Hridoy is a dedicated Software Engineer with a diverse background in software engineering, machine learning, and interdisciplinary research. His journey is defined by a passion for impactful work and a commitment to excellence.
@@ -26,6 +21,3 @@ As a **Software Engineer at Tekarsh - MarginEdge**, Raihan collaborates with Mar
 #### 🔍 Research Interests
 
 Raihan is deeply invested in the intersection of **Human-AI Interaction**, **Machine Learning**, and **Software Engineering**. His goal is to develop intelligent systems that align with human expectations, enhance software reliability, and adapt to user preferences for seamless integration into daily life.
-
---- 
-
