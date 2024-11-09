@@ -40,8 +40,3 @@ Hi! I'm **Raihanul Alam Hridoy**, a dedicated Software Engineer with a diverse b
 
 As a **Software Engineer at Tekarsh - MarginEdge**, I collaborate with the team to streamline restaurant management through automation and real-time data insights. My work focuses on leveraging machine learning to enhance invoice processing and ordering efficiency, creating impactful solutions for restaurant operators.
 
----
-
-#### 🔍 Research Interests
-
-My research interest lies at the intersection of **Software Engineering**, **Health** and **Machine Learning**, with a particular focus on automatic code generation. I am especially interested in developing innovative techniques and tools to enhance the reliability of systems while also leveraging ML to address complex challenges in Software Engineering and Human wellbeing.
