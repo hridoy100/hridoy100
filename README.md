@@ -85,7 +85,7 @@ As a **Software Engineer at Tekarsh - MarginEdge**, I collaborate with the team 
 ### Profile on Coding Platforms:
 <br></br>
 <p align="center">
-<a href="[https://leetcode.com/u/hridoy100/]" rel="nofollow">Leetcode</a>🏆
+  <a href="[https://leetcode.com/u/hridoy100/]" rel="nofollow">Leetcode</a>🏆
 </p>
 
 <hr></hr>
