@@ -98,9 +98,9 @@ As a **Software Engineer at Tekarsh - MarginEdge**, I collaborate with the team 
                   <th>
                         <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hridoy100&show_icons=true&theme=radical"></p>
                   </th>
-<!--                   <th>
+                  <th>
                         <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hridoy100" alt="GitHub Streak" /></a> </p>
-                  </th> -->
+                  </th>
             </tr>
       </thead>
 </table>
