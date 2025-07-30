@@ -53,11 +53,11 @@ const raihan = {
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/5%2B-Years_Coding-00D4FF?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/10%2B-Years_Coding-00D4FF?style=for-the-badge&labelColor=1a1a1a"/>
 <br><strong>Years of Experience</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/500%2B-Problems_Solved-00C851?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/1000%2B-Problems_Solved-00C851?style=for-the-badge&labelColor=1a1a1a"/>
 <br><strong>LeetCode Problems</strong>
 </td>
 <td align="center">
