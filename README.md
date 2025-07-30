@@ -1,10 +1,82 @@
-### Hello world :wave: :earth_africa:
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=hridoy100)
+# 👋 Hey there, I'm **Raihanul Alam Hridoy** 
 
-## 👋 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%7C+ML+Enthusiast;Building+AI-Powered+Solutions;Turning+Ideas+into+Impact" alt="Typing SVG" />
 
-Hi! I'm **Raihanul Alam Hridoy**, a dedicated Software Engineer with a diverse background in software engineering, machine learning, and interdisciplinary research. My journey has been driven by a passion for impactful work and a commitment to excellence.
+![](https://komarev.com/ghpvc/?username=hridoy100&color=61dafb&style=for-the-badge&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanul-alam-hridoy-861394187)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hridoy100/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+</div>
+
+## 🚀 About Me
+
+```typescript
+const raihan = {
+    location: "Rajshahi, Bangladesh 🇧🇩",
+    currentRole: "Software Engineer @ Tekarsh - MarginEdge",
+    education: "BUET (Bangladesh University of Engineering & Technology)",
+    
+    workingOn: [
+        "AI-powered restaurant management solutions",
+        "ML-driven invoice processing automation",
+        "Real-time data analytics for hospitality industry"
+    ],
+    
+    expertise: [
+        "Full-Stack Development",
+        "Machine Learning & AI",
+        "Human-Computer Interaction",
+        "System Design & Architecture"
+    ],
+    
+    achievements: {
+        nationalRanking: "15th in Engineering Admission",
+        research: "CHI'21 Best Paper Honorable Mention",
+        olympiad: "3rd Place National Science Olympiad"
+    },
+    
+    currentlyLearning: ["AI Agents", "LLM Integration", "Diffiusion Models", "Advanced System Design"],
+    
+    funFact: "I bridge the gap between cutting-edge AI and real-world impact! 🤖✨"
+};
+```
+
+<div align="center">
+
+### 🎯 **Quick Stats**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/5%2B-Years_Coding-00D4FF?style=for-the-badge&labelColor=1a1a1a"/>
+<br><strong>Years of Experience</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/500%2B-Problems_Solved-00C851?style=for-the-badge&labelColor=1a1a1a"/>
+<br><strong>LeetCode Problems</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/15%2B-Projects_Built-FF6B35?style=for-the-badge&labelColor=1a1a1a"/>
+<br><strong>Projects Completed</strong>
+</td>
+</tr>
+</table>
+
+### 💡 **Currently Focused On**
+
+<img src="https://img.shields.io/badge/🤖_AI/ML_Integration-FF6F00?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🏗️_System_Architecture-4F46E5?style=for-the-badge&labelColor=1a1a1a"/>
+
+---
+
+*"Passionate about creating technology that makes a meaningful difference in people's lives"*
+
+</div>
 
 <hr></hr>
 
