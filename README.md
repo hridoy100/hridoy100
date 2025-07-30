@@ -40,7 +40,7 @@ const raihan = {
         olympiad: "3rd Place National Science Olympiad"
     },
     
-    currentlyLearning: ["AI Agents", "LLM Integration", "Diffiusion Models", "Advanced System Design"],
+    currentlyLearning: ["AI Agents", "LLM Integration", "Diffusion Models", "Advanced System Design"],
     
     funFact: "I bridge the gap between cutting-edge AI and real-world impact! 🤖✨"
 };
@@ -61,7 +61,7 @@ const raihan = {
 <br><strong>LeetCode Problems</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/15%2B-Projects_Built-FF6B35?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/20%2B-Projects_Built-FF6B35?style=for-the-badge&labelColor=1a1a1a"/>
 <br><strong>Projects Completed</strong>
 </td>
 </tr>
@@ -71,6 +71,7 @@ const raihan = {
 
 <img src="https://img.shields.io/badge/🤖_AI/ML_Integration-FF6F00?style=for-the-badge&labelColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/🏗️_System_Architecture-4F46E5?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/📊_Real_Time_Analytics-00D4FF?style=for-the-badge&labelColor=1a1a1a"/>
 
 ---
 
@@ -78,17 +79,62 @@ const raihan = {
 
 </div>
 
-<hr></hr>
+---
 
-### 📜 Notable Achievements
+## 🏆 Notable Achievements
 
-- 🏆 **CHI'21 Honorable Mention**: My project, *Unmochon*, received the **Best Paper Honorable Mention** at the CHI'21 conference, reflecting my dedication to meaningful innovation.
-- 🏆 **Top Engineering Ranking**: I ranked 15th nationwide in a competitive engineering exam, which led me to BUET, Bangladesh's premier engineering university. Earlier, I placed 3rd in the National Science Olympiad and participated actively in Physics and Math Olympiads.
-- 🏆 **Published Research**: My undergraduate poster presentation earned 1st runner-up at the 7th NSysS conference and was later fully published in the 12th ICECE, showcasing my early contributions to research.
+<div align="center">
 
-<hr></hr>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CHI'21-Best_Paper_Honorable_Mention-FF6B35?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>🏆 Research Excellence</strong>
+<br>
+<em>Unmochon</em> project recognized at premier HCI conference
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/15th-National_Engineering_Rank-00C851?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>🎓 Academic Excellence</strong>
+<br>
+Top 15 nationwide → BUET admission
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/3rd_Place-Science_Olympiad-00D4FF?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>🧠 Problem Solving</strong>
+<br>
+National Science Olympiad + Physics/Math competitions
+</td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack & Skills
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/1st_Runner_Up-7th_NSysS_Conference-9C27B0?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>📊 Research Publication</strong>
+<br>
+Poster → Full paper in 12th ICECE
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Industry_Impact-Restaurant_Tech_Solutions-E44D26?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>💼 Real-World Impact</strong>
+<br>
+ML-driven automation for hospitality industry
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -170,49 +216,118 @@ const raihan = {
   </p>
 </div>
 
-<hr></hr>
+---
 
-### 🧩 Technical Contributions
+## 🚀 Featured Projects & Contributions
 
-- 🔭 **Problem Solving on LeetCode**: I've tackled complex problems on LeetCode and shared insights to help others approach coding challenges with clarity.
-- 🔭 **Java Networking and Socket Programming**: With a focus on accessible learning, I've produced online content to demystify Java Networking and socket programming concepts.
-- 🔭 **Phylogenetic Tree Analysis**: My interdisciplinary interests include evolutionary biology, where I've explored gene and species trees, duplications, and consensus algorithms, bridging computational and biological insights.
-
-<hr></hr>
-
-### 💼 Current Work
-
-As a **Software Engineer at Tekarsh - MarginEdge**, I collaborate with the team to streamline restaurant management through automation and real-time data insights. My work focuses on leveraging machine learning to enhance invoice processing and ordering efficiency, creating impactful solutions for restaurant operators.
-
-<hr></hr>
-
-### 📫 How to reach me:
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/raihanul-alam-hridoy-861394187)
-
-<hr></hr>
-
-### Profile on Coding Platforms:
-<br></br>
-<p align="center">
-  <a href="https://leetcode.com/u/hridoy100/" rel="nofollow">Leetcode</a>🏆
-</p>
-
-<hr></hr>
-
-### 🏆 My Github Stats 🏆
+<div align="center">
 
 <table>
-      <thead>
-            <tr>
-                  <th>
-                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hridoy100&show_icons=true&theme=radical"></p>
-                  </th>
-                  <th>
-                        <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hridoy100" alt="GitHub Streak" /></a> </p>
-                  </th>
-            </tr>
-      </thead>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🏆_Unmochon-CHI'21_Project-FF6B35?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>Human-AI Interaction Research</strong>
+<br>
+<em>Best Paper Honorable Mention at CHI'21</em>
+<br>
+Innovative HCI solution bridging technology and user experience
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🔬_Phylogenetic_Analysis-Computational_Biology-00C851?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>Interdisciplinary Research</strong>
+<br>
+<em>Gene & Species Tree Analysis</em>
+<br>
+Advanced algorithms for evolutionary biology insights
+</td>
+</tr>
 </table>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy100&langs_count=10"> </p>
 
-<p align="center">Show ❤️ by starring and forking repositories you find good! </p>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧠_LeetCode_Solutions-1000%2B_Problems-FFA116?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>Algorithm Mastery</strong>
+<br>
+Comprehensive problem-solving with detailed explanations
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌐_Java_Networking-Educational_Content-007396?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>Knowledge Sharing</strong>
+<br>
+Socket programming tutorials and guides
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🤖_AI_Restaurant_Tech-Production_System-E44D26?style=for-the-badge&labelColor=1a1a1a"/>
+<br><br>
+<strong>Industry Impact</strong>
+<br>
+ML-driven automation for hospitality
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer** @ **Tekarsh - MarginEdge** | *Current*
+
+Building the future of restaurant technology through AI-powered solutions. Leading development of intelligent systems that transform how restaurants operate, from automated invoice processing to real-time analytics dashboards.
+
+**Key Impact Areas:**
+- 🤖 **ML-Driven Automation** → Streamlining invoice processing workflows
+- 📊 **Real-Time Analytics** → Empowering data-driven restaurant decisions  
+- 🏗️ **System Architecture** → Scalable solutions for hospitality industry
+- 🚀 **Innovation Leadership** → Bridging cutting-edge AI with practical business needs
+
+---
+
+## 🏆 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hridoy100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=61dafb&icon_color=61dafb&text_color=ffffff" alt="GitHub Stats"/>
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hridoy100&theme=tokyonight&hide_border=true&background=1a1a1a&stroke=61dafb&ring=61dafb&fire=ff6b35&currStreakLabel=61dafb" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy100&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=61dafb&text_color=ffffff&langs_count=12" alt="Top Languages"/>
+
+<br>
+
+### 🎯 **Coding Activity**
+[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a)](https://leetcode.com/u/hridoy100/)
+[![Profile Views](https://komarev.com/ghpvc/?username=hridoy100&color=61dafb&style=for-the-badge&label=Profile+Views)](https://github.com/hridoy100)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 **Let's Connect & Collaborate!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanul-alam-hridoy-861394187)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hridoy100/)
+
+<br>
+
+*"Show ❤️ by starring repositories that inspire you! Let's build something amazing together."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+
+</div>
