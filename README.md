@@ -17,11 +17,13 @@
 
 ```typescript
 const raihan = {
-    location: "Rajshahi, Bangladesh 🇧🇩",
-    currentRole: "Software Engineer @ Tekarsh - MarginEdge",
-    education: "BUET (Bangladesh University of Engineering & Technology)",
+    location: "Iowa, United States of America 🇺🇸",
+    from: "Rajshahi, Bangladesh 🇧🇩",
+    currentRole: "Graduate Teaching Assistant - University of Iowa",
+    pastRole: "Software Engineer @ Tekarsh - MarginEdge",
+    education: "Bsc in Engineering from BUET (Bangladesh University of Engineering & Technology)",
     
-    workingOn: [
+    workedOn: [
         "AI-powered restaurant management solutions",
         "ML-driven invoice processing automation",
         "Real-time data analytics for hospitality industry"
