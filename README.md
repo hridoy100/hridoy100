@@ -278,15 +278,19 @@ ML-driven automation for hospitality
 
 ## 💼 Professional Experience
 
-**Software Engineer** @ **Tekarsh - MarginEdge** | *Current*
+### 🎓 Graduate Teaching Assistant · University of Iowa
+**`Current`** — Pursuing graduate studies while supporting teaching and research in computer science.
 
-Building the future of restaurant technology through AI-powered solutions. Leading development of intelligent systems that transform how restaurants operate, from automated invoice processing to real-time analytics dashboards.
+<br>
 
-**Key Impact Areas:**
-- 🤖 **ML-Driven Automation** → Streamlining invoice processing workflows
-- 📊 **Real-Time Analytics** → Empowering data-driven restaurant decisions  
-- 🏗️ **System Architecture** → Scalable solutions for hospitality industry
-- 🚀 **Innovation Leadership** → Bridging cutting-edge AI with practical business needs
+### 🍽️ Software Engineer · Tekarsh (MarginEdge)
+**`Previous`** — Built AI-powered restaurant technology: intelligent systems that transformed how restaurants operate, from automated invoice processing to real-time analytics dashboards.
+
+**Key contributions:**
+- 🤖 **ML-Driven Automation** — Streamlined invoice-processing workflows
+- 📊 **Real-Time Analytics** — Empowered data-driven restaurant decisions
+- 🏗️ **System Architecture** — Scalable solutions for the hospitality industry
+- 🚀 **Innovation Leadership** — Bridged cutting-edge AI with practical business needs
 
 ---
 
