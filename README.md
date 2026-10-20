@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%7C+ML+Enthusiast;Building+AI-Powered+Solutions;Turning+Ideas+into+Impact" alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=hridoy100&color=61dafb&style=for-the-badge&label=Profile+Views)
+[![GitHub stars](https://img.shields.io/github/stars/hridoy100?style=for-the-badge&label=Total%20Stars&logo=github&logoColor=white&labelColor=21262d&color=61dafb)](https://github.com/hridoy100?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/hridoy100?style=for-the-badge&label=Followers&logo=github&logoColor=white&labelColor=21262d&color=61dafb)](https://github.com/hridoy100?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/raihanul-alam-hridoy-861394187)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-21262d?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/hridoy100/)
 
@@ -58,7 +60,7 @@ const raihan = {
 <br><strong>Years of Experience</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/1000%2B-Problems_Solved-21262d?style=for-the-badge&labelColor=21262d&logo=leetcode&logoColor=FFA116"/>
+<a href="https://leetcode.com/u/hridoy100/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhridoy100&logo=leetcode&logoColor=yellow" alt="LeetCode problems solved out of total"/></a>
 <br><strong>LeetCode Problems</strong>
 </td>
 <td align="center">
@@ -232,7 +234,9 @@ ML-driven automation for hospitality industry
 <br>
 <em>Best Paper Honorable Mention at CHI'21</em>
 <br>
-Innovative HCI solution bridging technology and user experience
+A tool to collect authentic evidence of online harassment
+<br><br>
+<a href="https://github.com/hridoy100/unmochon">Source code</a> · <a href="https://doi.org/10.1145/3411764.3445154">CHI paper</a>
 </td>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/🔬_Phylogenetic_Analysis-Computational_Biology-21262d?style=for-the-badge&labelColor=21262d"/>
@@ -242,6 +246,8 @@ Innovative HCI solution bridging technology and user experience
 <em>Gene & Species Tree Analysis</em>
 <br>
 Advanced algorithms for evolutionary biology insights
+<br><br>
+<a href="https://github.com/hridoy100/phylogenetic-tree-research">Source code &amp; datasets</a> · <a href="https://hridoy100.github.io/publication/alam-2022-heuristic/">Paper &amp; thesis</a>
 </td>
 </tr>
 </table>
@@ -249,11 +255,13 @@ Advanced algorithms for evolutionary biology insights
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/LeetCode_Solutions-1000%2B_Problems-21262d?style=for-the-badge&labelColor=21262d&logo=leetcode&logoColor=FFA116"/>
+<a href="https://leetcode.com/u/hridoy100/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%20Solutions&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhridoy100&logo=leetcode&logoColor=yellow" alt="LeetCode solutions: problems solved out of total"/></a>
 <br><br>
 <strong>Algorithm Mastery</strong>
 <br>
 Comprehensive problem-solving with detailed explanations
+<br><br>
+<a href="https://github.com/hridoy100/Leetcode-solves">Solution repository</a> · <a href="https://leetcode.com/u/hridoy100/">LeetCode profile</a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Java_Networking-Educational_Content-21262d?style=for-the-badge&labelColor=21262d&logo=openjdk&logoColor=F89820"/>
@@ -261,6 +269,8 @@ Comprehensive problem-solving with detailed explanations
 <strong>Knowledge Sharing</strong>
 <br>
 Socket programming tutorials and guides
+<br><br>
+<a href="https://github.com/hridoy100/Java-Networking">Source code &amp; tutorials</a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🤖_AI_Restaurant_Tech-Production_System-21262d?style=for-the-badge&labelColor=21262d"/>
@@ -273,6 +283,15 @@ ML-driven automation for hospitality
 </table>
 
 </div>
+
+---
+
+## 📚 Research & Publications
+
+- **[‘Unmochon’: A Tool to Combat Online Sexual Harassment over Facebook Messenger](https://doi.org/10.1145/3411764.3445154)** — CHI 2021 · Best Paper Honorable Mention. [Source code](https://github.com/hridoy100/unmochon).
+- **[A Heuristic for Maximum Greedy Consensus Tree Problem](https://hridoy100.github.io/publication/alam-2022-heuristic/)** — ICECE 2022. [IEEE paper](https://ieeexplore.ieee.org/document/10089062) · [Source code & datasets](https://github.com/hridoy100/phylogenetic-tree-research).
+
+[View all publications](https://hridoy100.github.io/publication/) · [Explore my portfolio](https://hridoy100.github.io/)
 
 ---
 
@@ -314,7 +333,7 @@ ML-driven automation for hospitality
 <br>
 
 ### 🎯 **Coding Activity**
-[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B_Solved-21262d?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=21262d)](https://leetcode.com/u/hridoy100/)
+[![LeetCode problems solved out of total](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhridoy100&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/hridoy100/)
 [![Profile Views](https://komarev.com/ghpvc/?username=hridoy100&color=61dafb&style=for-the-badge&label=Profile+Views)](https://github.com/hridoy100)
 
 </div>
